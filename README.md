@@ -193,6 +193,13 @@ The recommendation system uses:
 - [ ] Export recommendations
 - [ ] Mobile app version
 
+## 📥 Dataset Download Link
+
+Due to large dataset size, download source datasets from:
+```
+https://grouplens.org/datasets/movielens/
+```
+
 ## 📝 License
 
 This project is open source and available for educational purposes.
@@ -208,6 +215,7 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Made with ❤️ using React, Flask, and Machine Learning
+
 
 
 
