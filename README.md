@@ -1,4 +1,4 @@
- ## 🎬 Panchax TV - Movie Recommendation System
+# 🎬 MovieMagic - Movie Recommendation System
 
 A fully responsive and visually stunning movie recommendation web application built with React, Flask, and machine learning.
 
@@ -193,18 +193,6 @@ The recommendation system uses:
 - [ ] Export recommendations
 - [ ] Mobile app version
 
-## 📥 Dataset Download Link
-
-Due to large dataset size, download source datasets from:
-```
-https://grouplens.org/datasets/movielens/
-```
-MovieLens 32M
-
-MovieLens 32M movie ratings. Stable benchmark dataset. 32 million ratings and two million tag applications applied to 87,585 movies by 200,948 users. Collected 10/2023 Released 05/2024
-
- 
-
 ## 📝 License
 
 This project is open source and available for educational purposes.
@@ -220,15 +208,3 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Made with ❤️ using React, Flask, and Machine Learning
-
-
-
-
-
-
-
-
-
-
-
-
